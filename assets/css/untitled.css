@@ -1,0 +1,27 @@
+.navbar.navbar-dark.navbar-expand-md.fixed-top.bg-dark {
+  background-color: #c6d39f!important;
+  opacity: 0.8;
+}
+
+body {
+  padding-top: 80px;
+}
+
+.btn.btn-secondary.btn-block.btn-lg {
+  background-color: #d1dcb2!important;
+}
+
+.btn.btn-block.btn-lg {
+  background-color: #a8b584!important;
+}
+
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+}
+
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+}
+
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+  background-color: #a8b584!important;
+}
+
