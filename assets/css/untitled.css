@@ -25,3 +25,31 @@ body {
   background-color: #a8b584!important;
 }
 
+#promo .jumbotron {
+  border-radius: 20px;
+  padding: 40px;
+  background-color: rgb(255,255,255,0.75);
+  max-width: 800px;
+  margin: auto;
+}
+
+@media (max-width: 576px) {
+  #promo .jumbotron {
+    padding: 20px;
+  }
+}
+
+@media (max-width: 576px) {
+  #promo {
+    padding: 20px;
+  }
+}
+
+#promo {
+  margin-top: 40px;
+  margin-bottom: 5px;
+}
+
+.jumbotron.jumbotron-fluid {
+}
+
