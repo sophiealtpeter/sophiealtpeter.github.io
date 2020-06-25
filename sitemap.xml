@@ -1,67 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://sophiealtpeter.github.io/</loc>
-  <lastmod>2020-04-06T12:45:46+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://sophiealtpeter.github.io/cv.html</loc>
-  <lastmod>2020-04-06T12:45:46+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sophiealtpeter.github.io/murvert.html</loc>
-  <lastmod>2020-04-06T12:45:46+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sophiealtpeter.github.io/leinwand.html</loc>
-  <lastmod>2020-04-06T12:45:46+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sophiealtpeter.github.io/lineal_lesezeichen.html</loc>
-  <lastmod>2020-04-06T12:45:46+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sophiealtpeter.github.io/migrowagen.html</loc>
-  <lastmod>2020-04-06T12:45:46+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sophiealtpeter.github.io/handrobe.html</loc>
-  <lastmod>2020-04-06T12:45:46+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sophiealtpeter.github.io/datenblatt.html</loc>
-  <lastmod>2020-04-06T12:45:46+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sophiealtpeter.github.io/vaburett.html</loc>
-  <lastmod>2020-04-06T12:45:46+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sophiealtpeter.github.io/kartonablagen.html</loc>
-  <lastmod>2020-04-06T12:45:46+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sophiealtpeter.github.io/index.html</loc>
-  <lastmod>2020-04-06T12:45:46+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>https://sophiealtpeter.github.io/cv.html</loc>
+    </url>
+    <url>
+        <loc>https://sophiealtpeter.github.io/datenblatt.html</loc>
+    </url>
+    <url>
+        <loc>https://sophiealtpeter.github.io/handrobe.html</loc>
+    </url>
+    <url>
+        <loc>https://sophiealtpeter.github.io/index.html</loc>
+    </url>
+    <url>
+        <loc>https://sophiealtpeter.github.io/kartonablagen.html</loc>
+    </url>
+    <url>
+        <loc>https://sophiealtpeter.github.io/leinwand.html</loc>
+    </url>
+    <url>
+        <loc>https://sophiealtpeter.github.io/lineal_lesezeichen.html</loc>
+    </url>
+    <url>
+        <loc>https://sophiealtpeter.github.io/migrowagen.html</loc>
+    </url>
+    <url>
+        <loc>https://sophiealtpeter.github.io/murvert.html</loc>
+    </url>
+    <url>
+        <loc>https://sophiealtpeter.github.io/projects-compact-grid.html</loc>
+    </url>
+    <url>
+        <loc>https://sophiealtpeter.github.io/projects-grid-cards.html</loc>
+    </url>
+    <url>
+        <loc>https://sophiealtpeter.github.io/projects-with-sidebar.html</loc>
+    </url>
+    <url>
+        <loc>https://sophiealtpeter.github.io/vaburett.html</loc>
+    </url>
 </urlset>
